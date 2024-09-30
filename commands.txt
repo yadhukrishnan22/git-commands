@@ -2,3 +2,10 @@ git config --global user.name "username" [to create a user in git]
 
 git config --global user.email "email" [to create a mail for user]
 
+git init [to initialize git in a new folder. should be only done once]
+
+git status [to check untracked files]
+
+git add -A [to all untracked files to stagged]
+
+git commit -m "commit message" [to add all stagged files]
