@@ -9,3 +9,11 @@ git status [to check untracked files]
 git add -A [to all untracked files to stagged]
 
 git commit -m "commit message" [to add all stagged files]
+
+git remote add remote_name remote_path
+
+git push remote_name branch_name
+
+git branch
+
+git version -v
